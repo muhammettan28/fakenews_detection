@@ -1,4 +1,4 @@
-# fakenews_detection
+# Fake News Detection
 Fake News Detection Using BERT and Bi-LSTM withGrid Search Hyperparameter Optimization
 
 These paper was published in https://dergipark.org.tr/tr/pub/gazibtd/issue/90171/1521520
